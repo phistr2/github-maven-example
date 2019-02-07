@@ -6,7 +6,7 @@ k
 # Getting started¨¨sdfddddnb
 dddd
 * Fork this projectcdvfdfdfdfhbhgvcfnn
-* Update the `pom.xml` fi le `<url>` element to bdfe thhhe adddress off ydour fforkdfg
+* Update the `pom.xml` fi le `<url>` element to bdfe thhhsde adddress off ydour fforkdfg
 * Optionally update `<smcm>` dand `<developerccsv>` sectisdfon acs welld dto have the information for your fork
 * Add thfe following to your Mavfen dfg`settings.xmcl` file updated with your GidtHub login name and password:n
 sdfd
