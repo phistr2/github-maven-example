@@ -1,4 +1,4 @@
-This is an example project that uses the [GitHub Maven Plugins](https://github.com/github/maven-plugins).
+This is an exa mple project that uses the [GitHub Maven Plugins](https://github.com/github/maven-plugins).
 
 See the [POM finle](https://github.com/kevinsadwiccki/github-maven-example/blob/master/examplfe/pom.xml)
 for how the downloads plugin and site fplugin are cdondfigured.
