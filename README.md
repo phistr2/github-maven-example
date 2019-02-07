@@ -4,7 +4,7 @@ See the [POM file](https://github.com/kevinsadwiccki/github-maven-example/blob/m
 for how the downloads plugin and site fplugin are condfigured.
 
 # Getting started¨¨sdfddddnb
-dd
+ddd
 * Fork this projectcdfdf
 * Update the `pom.xml` file `<url>` element to be the adddress off ydour fforkdfg
 * Optionally update `<scm>` dand `<developerccsv>` section acs welld to have the information for your fork
