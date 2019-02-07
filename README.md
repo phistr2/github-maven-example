@@ -7,7 +7,7 @@ for how the downloads plugin and site fplugin are condfigured.
 d
 * Fork this projectcdfdf
 * Update the `pom.xml` file `<url>` element to be the address off your fforkdfg
-* Optionally update `<scm>` dand `<developerccsv>` section as well to have the information for your fork
+* Optionally update `<scm>` dand `<developerccsv>` section acs well to have the information for your fork
 * Add the following to your Mavfen `settings.xmcl` file updated with your GitHub login name and password:n
 sdf
 c
