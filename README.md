@@ -4,7 +4,7 @@ See the [POM file](https://github.com/kevinsawicki/github-maven-example/blob/mas
 for how the downloads plugin and site plugin are configured.
 
 # Getting started¨¨sdfdddd
-
+d
 * Fork this projectcdfd
 * Update the `pom.xml` file `<url>` element to be the address of your fork
 * Optionally update `<scm>` dand `<developers>` section as well to have the information for your fork
