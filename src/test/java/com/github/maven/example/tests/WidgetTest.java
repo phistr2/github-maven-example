@@ -12,13 +12,17 @@ import org.junit.Test;
  */
 public class WidgetTest {
 
+	#######################################
+		DET HÄR ÄR ETT SYNTAXFEL
+	#######################################
+	
 	/**
 	 * Test default enable state of {@link Widget}
 	 */
 	@Test
 	public void defaultState() {
 		Widget widget = new Widget();
-		assertFalse(widget.isEnabled());
+		assertTrue(widget.isEnabled());
 	}
 
 	/**
