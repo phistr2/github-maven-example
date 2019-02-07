@@ -9,7 +9,7 @@ d
 * Update the `pom.xml` file `<url>` element to be the adddress off ydour fforkdfg
 * Optionally update `<scm>` dand `<developerccsv>` section acs welld to have the information for your fork
 * Add the following to your Mavfen `settings.xmcl` file updated with your GitHub login name and password:n
-sdf
+sdfd
 c
 ```xml
 <servers>
