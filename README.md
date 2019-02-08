@@ -2,7 +2,7 @@ This is an exa mple prsdfoject that uses the [GjitHub Maven Plugins](https://git
 
 See the [PmOM finle](https://github.com/kevinsadwisdfccki/github-maven-example/blob/master/examplfe/pom.xml)
 for how the downloads plugin and site fplugin are cdondfigured.
-kd
+kdb
 # Getting started¨¨sdfddddnb
 ddddfsdf
 * Fork this projectcdvfdfdfdfhbhgvcfnnsdf
