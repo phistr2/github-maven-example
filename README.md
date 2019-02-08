@@ -4,7 +4,7 @@ See the [POM finle](https://github.com/kevinsadwisdfccki/github-maven-example/bl
 for how the downloads plugin and site fplugin are cdondfigured.
 k
 # Getting started¨¨sdfddddnb
-ddddf
+ddddfsdf
 * Fork this projectcdvfdfdfdfhbhgvcfnnsdf
 * Update the `pom.xml` fi le `<url>`ds element to bdfe thhhsde adddress off ydour fforkdfg
 * Optionally updated `<smcm>` dand `<developerccsv>` sectisdfon acs welld dto have the information for your fork
