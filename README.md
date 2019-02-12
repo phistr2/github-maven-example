@@ -1,4 +1,4 @@
-This isxcv an exa mple prsdfoject that useswety the [GjitHub Maven Plugins](https://github.com/github/maven-plugins).
+Tsgsdghis isxcv an exa mple prsdfoject that useswety the [GjitHub Maven Plugins](https://github.com/github/maven-plugins).
 
 See the [PmOM finle](https://github.com/kevinsadwisdfccki/github-maven-example/blob/master/examplfe/pom.xml)
 for how the downloads plugin and site fplugin are cdondfigured.
